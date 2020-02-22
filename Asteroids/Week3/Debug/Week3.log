@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(165): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(166): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(170): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(171): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(278): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(313): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(314): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(315): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(326): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(350): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(380): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(414): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(424): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(424): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(439): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\asus n551j\desktop\week2 input\asteroids\week3\main.cpp(477): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Week3.vcxproj -> C:\Users\Asus N551J\Desktop\Week2 Input\Asteroids\Debug\Asteroids.exe
+  Week3.vcxproj -> C:\Users\Asus N551J\Desktop\Week2 Input\Asteroids\Debug\Asteroids.pdb (Full PDB)

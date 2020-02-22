@@ -1,0 +1,33 @@
+﻿  Main.cpp
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(40,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(40,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(79,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(79,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(81,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(109,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(110,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(166,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(167,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(171,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(172,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(280,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(315,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(316,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(317,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(328,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(352,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(352,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(382,11): warning C4553: '==': result of expression not used; did you intend '='?
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(411,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(411,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(421,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(421,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(421,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(436,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(436,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Week3\Main.cpp(473,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 257 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Week3.vcxproj -> D:\UniVerse\Past Projects\Asteroids\AsteroidsGame_year1\Asteroids\Release\Asteroids.exe
